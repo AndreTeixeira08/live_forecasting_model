@@ -43,9 +43,10 @@ The project was developed using a **Lakehouse architecture** in Microsoft Fabric
 ### 2. 🧪 Exploratory Data Analysis (EDA)
 
 Notebooks:
-- `EDA_Full_Dataset_Initial_Insights.ipynb`
 - `EDA_PoC_Initial_Insights.ipynb`
 - `EDA_Define_PoC.ipynb`
+- `EDA_Full_Dataset_Initial_Insights.ipynb`
+
 
 Key insights:
 - Defined the **Proof of Concept (PoC)** with 4 Istanbul stores (one per store type: ST01 to ST04)
@@ -139,7 +140,6 @@ project_II_stock_forecasting/
 Models were evaluated using:
 
 - **MAE** – Mean Absolute Error  
-- **MAPE** – Mean Absolute Percentage Error  
 - **AIC / BIC** – Model fit comparison for ARIMA-type models  
 
 Evaluation was done at the product level, grouped by store and hierarchy (`store_id`, `hierarchy1_id`).
