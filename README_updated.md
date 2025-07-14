@@ -43,9 +43,9 @@ The project was developed using a **Lakehouse architecture** in Microsoft Fabric
 ### 2. 🧪 Exploratory Data Analysis (EDA)
 
 Notebooks:
-- `EDA_Full_Dataset_Initial_Insights.ipynb`
 - `EDA_PoC_Initial_Insights.ipynb`
 - `EDA_Define_PoC.ipynb`
+- `EDA_Full_Dataset_Initial_Insights.ipynb`
 
 Key insights:
 - Defined the **Proof of Concept (PoC)** with 4 Istanbul stores (one per store type: ST01 to ST04)
