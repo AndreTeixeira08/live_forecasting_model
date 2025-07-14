@@ -139,7 +139,6 @@ project_II_stock_forecasting/
 Models were evaluated using:
 
 - **MAE** – Mean Absolute Error  
-- **MAPE** – Mean Absolute Percentage Error  
 - **AIC / BIC** – Model fit comparison for ARIMA-type models  
 
 Evaluation was done at the product level, grouped by store and hierarchy (`store_id`, `hierarchy1_id`).
@@ -151,7 +150,6 @@ Evaluation was done at the product level, grouped by store and hierarchy (`store
 - Switch from `sales` to **demand estimation** when `stock = 0`  
 - Host data in **Azure Data Lake Storage (ADLS Gen2)** for automated ingestion  
 - Add **moving averages** and other time-window features  
-- Apply **Random Search** or **Grid Search** for model tuning  
 - Deploy forecasting logic for continuous weekly updates  
 
 ---
@@ -160,7 +158,10 @@ Evaluation was done at the product level, grouped by store and hierarchy (`store
 
 Developed as part of the **Postgraduate Program in Analytics & Data Science**.
 
-- **André Teixeira** – Feature Engineering & Time Series Modeling  
+- **André Teixeira** – Feature Engineering & Time Series Modeling
+- **Patrícia Pereira** – EDA...
+- **Rodrigo Diogo** – Linear Regression ML Modelling
+- **Vitor Pereira** – Fabric Medallion Architecture  
 - [Add names of teammates and responsibilities if applicable]
 
 ---
