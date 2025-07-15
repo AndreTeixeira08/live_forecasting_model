@@ -8,6 +8,7 @@ All datasets were ingested and transformed within the Microsoft Fabric environme
 - **Projeto_II_Silver_** – Cleaned and normalized datasets
 - **Projeto_II_Gold_** – Star schema modeling with dimension and fact tables
 - **ML_Area_** – Final feature table used for machine learning modeling
+- **Power BI**: Visualization of results and reporting
 
 Access to this data requires membership in the Fabric workspace used during project development.
 
