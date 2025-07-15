@@ -11,4 +11,4 @@ All datasets were ingested and transformed within the Microsoft Fabric environme
 
 Access to this data requires membership in the Fabric workspace used during project development.
 
-For academic or review purposes, please contact the repository owner to request access or a demo.
+For academic or review purposes, please contact the repository owners to request access or a demo.
