@@ -23,7 +23,7 @@ The project was developed using a **Lakehouse architecture** in Microsoft Fabric
 ### 1. 🔄 Data Pipeline
 
 #### Bronze Layer
-- Notebook: `01_bronze_transform.ipynb01_bronze_transform.ipynb`
+- Notebook: `01_bronze_transform.ipynb`
 - Converted raw data files into Delta format in `Projeto_II_Bronze_`
 
 #### Silver Layer
