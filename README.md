@@ -43,9 +43,10 @@ The project was developed using a **Lakehouse architecture** in Microsoft Fabric
 ### 2. 🧪 Exploratory Data Analysis (EDA)
 
 Notebooks:
-- `04_eda_initial_insights_poc.ipynb`
+- `04_eda_full_dataset.ipynb`
 - `05_eda_define_poc.ipynb`
-- `06_eda_full_dataset.ipynb`
+- `06_eda_initial_insights_poc.ipynb`
+
 
 
 Key insights:
@@ -113,9 +114,9 @@ project_II_stock_forecasting/
 │   ├── 01_bronze_transform.ipynb
 │   ├── 02_silver_cleaning.ipynb
 │   ├── 03_gold_modeling.ipynb
-│   ├── 04_eda_initial_insights_poc.ipynb
+│   ├── 04_eda_full_dataset.ipynb
 │   ├── 05_eda_define_poc.ipynb
-│   ├── 06_eda_full_dataset.ipynb
+│   ├── 06_eda_initial_insights_poc.ipynb
 │   ├── 07_feature_engineering.ipynb
 │   ├── 08_model_arima.ipynb
 │   ├── 09_model_sarima.ipynb
