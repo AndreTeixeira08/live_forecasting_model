@@ -1,12 +1,12 @@
 # Project II – Predictive Model for Stock Management
 
-## 🎯 Objective
+## Objective
 
 Forecast weekly product sales to optimize stock replenishment for four selected stores in Istanbul. The aim is to reduce stockouts and overstocking using time series models and engineered features that reflect business and temporal dynamics.
 
 ---
 
-## 🧱 Architecture (Microsoft Fabric)
+## Architecture (Microsoft Fabric)
 
 The project was developed using a **Lakehouse architecture** in Microsoft Fabric, structured into:
 
