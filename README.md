@@ -18,9 +18,9 @@ The project was developed using a **Lakehouse architecture** in Microsoft Fabric
 
 ---
 
-## 🔍 Project Stages
+## Project Stages
 
-### 1. 🔄 Data Pipeline
+### 1. Data Pipeline
 
 #### Bronze Layer
 - Notebook: `01_bronze_transform.ipynb`
@@ -40,7 +40,7 @@ The project was developed using a **Lakehouse architecture** in Microsoft Fabric
 
 ---
 
-### 2. 🧪 Exploratory Data Analysis (EDA)
+### 2. Exploratory Data Analysis (EDA)
 
 Notebooks:
 - `04_eda_full_dataset.ipynb`
@@ -57,7 +57,7 @@ Key insights:
 
 ---
 
-### 3. 🏗 Feature Engineering
+### 3. Feature Engineering
 
 Notebook: `07_feature_engineering.ipynb`
 
@@ -74,7 +74,7 @@ These features were used as input for time series and regression models.
 
 ---
 
-### 4. 📈 Predictive Models
+### 4. Predictive Models
 
 Notebooks:
 - `08_model_arima.ipynb`
@@ -92,7 +92,7 @@ Models were tested by `product_id` across the selected stores and hierarchies. E
 
 ---
 
-### 5. 📊 Reports and Outputs
+### 5. Reports and Outputs
 
 Power BI Reports:
 - `project_II_final_report.pdf` – Final model forecasts and performance
@@ -105,7 +105,7 @@ Output files:
 
 ---
 
-## 📂 Suggested GitHub Folder Structure
+## Suggested GitHub Folder Structure
 
 ```
 project_II_stock_forecasting/
@@ -140,7 +140,7 @@ project_II_stock_forecasting/
 
 ---
 
-## 📐 Model Evaluation
+## Model Evaluation
 
 Models were evaluated using:
 
@@ -151,7 +151,7 @@ Evaluation was done at the product level, grouped by store and hierarchy (`store
 
 ---
 
-## 🚀 Future Roadmap
+## Future Roadmap
 
 1. **Demand-Instead-of-Sales Target**  
    - Detect `stock = 0` situations and impute *latent demand* so the model learns true customer interest, not shelf availability.
@@ -170,7 +170,7 @@ Evaluation was done at the product level, grouped by store and hierarchy (`store
 
 ---
 
-## 👥 Team & Acknowledgments
+## Team & Acknowledgments
 
 Developed as part of the **Postgraduate Program in Analytics & Data Science**.
 
